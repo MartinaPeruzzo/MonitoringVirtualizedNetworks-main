@@ -1,9 +1,0 @@
-Time stamp   Object     Metric               Value
------------- ---------- -------------------- --------------------
-14:06:04.620 switch     CPU/Load/Kernel      0.00%
-14:06:04.620 switch     RAM/Usage/Used       354676 kB
-14:06:04.620 switch     Disk/Usage/Used      1072 MB
-14:06:04.620 switch     Net/Rate/Rx          0 B/s
-14:06:04.620 switch     Net/Rate/Tx          0 B/s
-14:06:04.620 switch     Guest/RAM/Usage/Total 
-14:06:04.620 switch     Guest/RAM/Usage/Free 
