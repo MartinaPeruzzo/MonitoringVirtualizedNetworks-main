@@ -1,0 +1,17 @@
+Time stamp   Object     Metric               Value
+------------ ---------- -------------------- --------------------
+14:08:48.273 host-b     CPU/Load/Kernel      0.05%
+14:08:48.273 host-b     RAM/Usage/Used       351176 kB
+14:08:48.273 host-b     Disk/Usage/Used      1072 MB
+14:08:48.273 host-b     Net/Rate/Rx          0 B/s
+14:08:48.273 host-b     Net/Rate/Tx          0 B/s
+14:08:48.273 host-b     Guest/RAM/Usage/Total 234636 kB
+14:08:48.273 host-b     Guest/RAM/Usage/Free 148360 kB
+------------ ---------- -------------------- --------------------
+14:08:52.279 host-b     CPU/Load/Kernel      0.05%
+14:08:52.279 host-b     RAM/Usage/Used       351176 kB
+14:08:52.279 host-b     Disk/Usage/Used      1072 MB
+14:08:52.279 host-b     Net/Rate/Rx          0 B/s
+14:08:52.279 host-b     Net/Rate/Tx          0 B/s
+14:08:52.279 host-b     Guest/RAM/Usage/Total 234636 kB
+14:08:52.279 host-b     Guest/RAM/Usage/Free 148360 kB

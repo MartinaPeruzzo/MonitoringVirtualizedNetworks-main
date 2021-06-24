@@ -1,0 +1,9 @@
+Time stamp   Object     Metric               Value
+------------ ---------- -------------------- --------------------
+14:06:32.221 router     CPU/Load/Kernel      0.00%
+14:06:32.221 router     RAM/Usage/Used       351404 kB
+14:06:32.221 router     Disk/Usage/Used      1072 MB
+14:06:32.221 router     Net/Rate/Rx          0 B/s
+14:06:32.221 router     Net/Rate/Tx          0 B/s
+14:06:32.221 router     Guest/RAM/Usage/Total 
+14:06:32.221 router     Guest/RAM/Usage/Free 
