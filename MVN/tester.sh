@@ -90,18 +90,18 @@ else if test $number = "3"
 else if test $number = "4"
     then
     echo "Please choose:"
-    routerlist=("enp0s8.2" "enp0s8.3")
+    routerlist=("enp0s8.1" "enp0s8.2")
     select rul in "${routerlist[@]}"
     do
         case $rul in
+            "enp0s8.1")
+                echo "Processing..."
+                vagrant ssh router -c "sudo tc qdisc show dev enp0s8.1"
+                break
+                ;;
             "enp0s8.2")
                 echo "Processing..."
                 vagrant ssh router -c "sudo tc qdisc show dev enp0s8.2"
-                break
-                ;;
-            "enp0s8.3")
-                echo "Processing..."
-                vagrant ssh router -c "sudo tc qdisc show dev enp0s8.3"
                 break
                 ;;
             *) echo "Invalid entry."
